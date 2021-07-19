@@ -19,7 +19,7 @@ image_store_dir/
     test/
         ...
 ```
-The "validation" and "test" directories are organized in the same way as the "train" directory.
+*The "validation" and "test" directories are organized in the same way as the "train" directory.*
 ### Setup:
 ---
 The Jupyter notebook was created in Google Colaboratory, and the images were downloaded to Google Drive, so it's easier to open and run it there, but first, replace or recreate an image storage path.
