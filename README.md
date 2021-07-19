@@ -3,7 +3,7 @@
 A Jupyter notebook, describing the selection, downloading, and saving of images from Open Images in a certain format using the FiftyOne tool.
 ### Overview:
 ---
-The objective of the project is to download images of the required classes from Open Images and save them in the ImageClassificationDirectoryTree format using FiftyOne tool. It is suitable for those who want to get images from the Open Images Dataset in the following format:
+The objective of the project is to download images of the required classes from Open Images and save them in the ImageClassificationDirectoryTree format using [FiftyOne](https://voxel51.com/docs/fiftyone/) tool. It is suitable for those who want to get images from the Open Images Dataset in the following format:
 ```
 image_store_dir/
     train/
