@@ -1,9 +1,11 @@
 ## Downloading images from Open Images using the FiftyOne tool
 ---
+> **Note** This repository has been archived.
+
 A Jupyter notebook, describing the selection, downloading, and saving of images from **Open Images** in a certain format using the **FiftyOne** tool.
 ### Overview:
 ---
-The objective of the project is to download images of the required classes from Open Images and save them in the ImageClassificationDirectoryTree format using [FiftyOne](https://voxel51.com/docs/fiftyone/) tool. It is suitable for those who want to get images from the Open Images Dataset in the following format:
+The objective is to download images of the required classes from Open Images and save them in the ImageClassificationDirectoryTree format (see below) using [FiftyOne](https://voxel51.com/docs/fiftyone/) tool:
 ```
 image_store_dir/
     train/
@@ -28,7 +30,4 @@ The Jupyter notebook was created in Google Colaboratory, and the images were dow
 python 3.7.10, fiftyone 0.9.3
 ### Data: 
 ---
-For the project, we took images of two classes "Rabbit" and "Squirrel" from [Open Images Dataset V6 + Extensions](https://storage.googleapis.com/openimages/web/index.html)
-### How can you help:
----
-If you find any bugs, issues, or have any questions or recommendations for improvement this project, please write about it.
+Images of two classes "Rabbit" and "Squirrel" from [Open Images Dataset V6 + Extensions](https://storage.googleapis.com/openimages/web/index.html) licensed under a [Attribution 2.0 Generic (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/) license with a note (see the License section on the [Description page](https://storage.googleapis.com/openimages/web/factsfigures_v6.html) of the Dataset for more information).
